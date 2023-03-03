@@ -1,1 +1,24 @@
-/* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+    }
+    
+    
+    #mainHeading {
+    color: red;
+    }
+    
+    
+    #testP, .funParagraph {
+    color: green;
+    }
+    
+ 
+    article {
+    margin-bottom: 30px;
+    padding: 10px;
+    }
+    
+    
+    
